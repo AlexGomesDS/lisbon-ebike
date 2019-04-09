@@ -1,0 +1,7 @@
+create table dev.FACT_GIRA_DATA (
+datetime timestamp,
+GIRA_STATION_ID INT,
+NUM_BIKES INT,
+NUM_DOCKINGS INT,
+STATION_STATE VARCHAR(10)
+)
